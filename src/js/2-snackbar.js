@@ -22,7 +22,7 @@ function onBtnClick(e) {
       title: 'Error',
       message: 'All fields must be filled in!',
     });
-    return;npm install izitoast --save
+    return;
   }
 
   const delay = +delayField.value;
